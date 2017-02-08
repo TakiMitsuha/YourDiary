@@ -1,2 +1,2 @@
-# YourDiary-master
+# YourDiary
 新海诚执导的日本动画电影《君の名は》，中文译名《你的名字》同款日记。
